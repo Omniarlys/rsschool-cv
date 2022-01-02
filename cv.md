@@ -11,7 +11,7 @@ I work as an engineer for the repair of electronic equipment. I wanted to learn 
 3. Skills: 
 Interested in C #, want to learn JScript.
 4. Education:
-Graduated from:
+Graduated from: MGMTPTK
 * Minsk Automobile College, specialty - mechanical technician.
 * BSUIR with a degree in Information Technology and Management Engineer.
 5. Code examples:\
