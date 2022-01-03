@@ -41,7 +41,7 @@ HTML
   </div>
 </header>
 ~~~
-6. language:
+6. languages:
 Enlish A2\
 Polish A1\
 Russian C2
