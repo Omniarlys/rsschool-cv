@@ -1,4 +1,4 @@
-# Your are welcome
+# You are welcome
 ![jpg](https://th.bing.com/th/id/R.b36a8a9ad8ed0a466ed9be0a33ac00a8?rik=QGs%2fz6Qrb3i9Dg&pid=ImgRaw&r=0)
 ### First Name, Last Name: *Sasha Navoichyk*
 1. Contact Info:\
